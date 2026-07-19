@@ -1,6 +1,6 @@
 # Three-ML-Projects-Completed
 
-streamlit : https://three-ml-projects-completed-rukyhlzmofwcstnanhqvaz.streamlit.app/
+streamlit App Link : https://three-ml-projects-completed-rukyhlzmofwcstnanhqvaz.streamlit.app/
 
 # 🩺 Multiple Disease Prediction System
 
