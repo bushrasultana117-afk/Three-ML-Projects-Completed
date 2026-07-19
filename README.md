@@ -1,5 +1,7 @@
 # Three-ML-Projects-Completed
 
+streamlit : https://three-ml-projects-completed-rukyhlzmofwcstnanhqvaz.streamlit.app/
+
 # 🩺 Multiple Disease Prediction System
 
 An AI-powered healthcare application built with **Python, Machine Learning, and Streamlit** to predict the likelihood of multiple diseases from user input.
